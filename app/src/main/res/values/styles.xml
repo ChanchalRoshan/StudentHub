@@ -14,4 +14,9 @@
         <item name="colorAccent">#EF6C00</item>
     </style>
 
+    <style name="AppCompatTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimaryDark">#EF6C00</item>
+        <item name="colorAccent">#EF6C00</item>
+    </style>
+
 </resources>
